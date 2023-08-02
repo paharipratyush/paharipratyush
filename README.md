@@ -8,7 +8,7 @@ I am a 3rd year Engineering Student and currently exploring Tech World
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [pratyushpahari.official@gmail.com](mailto:pratyushpahari.official@gmail.com)
-* 🧠  I'm currently learning Front End Web Development and DSA
+* 🧠  I'm currently learning Web Development and DSA
 
 <!--
 **paharipratyush/paharipratyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
