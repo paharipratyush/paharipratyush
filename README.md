@@ -1,4 +1,14 @@
-### Hi there 👋
+Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Pratyush !
+=======================================================================================================================================
+
+Open Source Enthusiast
+----------------------
+
+I am a 2nd year Engineering Student and currently exploring Tech World
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [pratyushpahari02@gmail.com](mailto:pratyushpahari02@gmail.com)
+* 🧠  I'm currently learning Front End Web Development and DSA
 
 <!--
 **paharipratyush/paharipratyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
