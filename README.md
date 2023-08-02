@@ -10,6 +10,9 @@ I am a 3rd year Engineering Student and currently exploring Tech World
 * 🧠  I'm currently learning Web Development and DSA
 
 
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@PahariPratyush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paharipratyush) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratyushpahari) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pratyushpahari) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=paharipratyush&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paharipratyush&theme=dark&hide_border=false)<br/>
