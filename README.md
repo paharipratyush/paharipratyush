@@ -6,9 +6,18 @@ Open Source Enthusiast
 
 I am a 3rd year Engineering Student and currently exploring Tech World
 
-* 🌍  I'm based in India
 * ✉️  You can contact me at [pratyushpahari.official@gmail.com](mailto:pratyushpahari.official@gmail.com)
 * 🧠  I'm currently learning Web Development and DSA
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=paharipratyush&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=paharipratyush&theme=dark&hide_border=false)<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=paharipratyush&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **paharipratyush/paharipratyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
