@@ -7,7 +7,7 @@ Open Source Enthusiast
 I am a 3rd year Engineering Student and currently exploring Tech World
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [pratyushpahari02@gmail.com](mailto:pratyushpahari02@gmail.com)
+* ✉️  You can contact me at [pratyushpahari.official@gmail.com](mailto:pratyushpahari.official@gmail.com)
 * 🧠  I'm currently learning Front End Web Development and DSA
 
 <!--
