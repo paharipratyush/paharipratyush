@@ -4,7 +4,7 @@ Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Open Source Enthusiast
 ----------------------
 
-I am a 3rd year Engineering Student and currently exploring Tech World
+I am a 4th year Engineering Student and currently exploring Tech World
 
 * ✉️  You can contact me at [pratyushpahari.official@gmail.com](mailto:pratyushpahari.official@gmail.com)
 * 🧠  I'm currently learning Web Development and DSA
